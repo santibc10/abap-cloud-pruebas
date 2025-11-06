@@ -19,5 +19,7 @@ CLASS zclass_holamundo IMPLEMENTATION.
 
   out->write( 'Hola Mundo En ABAP Cloud' ).
 
+  out->write( 'Hola Cambio' ).
+
   ENDMETHOD.
 ENDCLASS.
